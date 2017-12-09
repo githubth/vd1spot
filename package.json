@@ -1,0 +1,25 @@
+{
+  "name": "vd1.spot",
+  "version": "1.0.0",
+  "description": "vd1spot",
+  "main": "app1.js",
+  "scripts": {
+    "test": "test"
+	"start": "node app1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "vd1spot"
+  },
+  "keywords": [
+    "vd1"
+  ],
+  "author": "thx",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.5",
+    "request": "^2.83.0"
+  }
+}
